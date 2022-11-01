@@ -1,0 +1,30 @@
+### Get Contacts
+GET http://localhost:3003/contacts/getContacts
+
+### Create Contact
+POST http://localhost:3003/contacts/createContact
+Content-Type: application/json
+
+{
+
+        "name": "Ana",
+        "email": "Ana@outlook.com",
+        "phone": "38 99321-6531"
+
+    }
+
+### Edit Contact
+PUT http://localhost:3003/contacts/editContact/2
+Content-Type: application/json
+
+{
+
+        "name": "Bruce",
+        "email": "Bruce@outlook.com",
+        "phone": "21 99435-3128"
+
+    }
+
+### Delete Contact
+DELETE http://localhost:3003/contacts/deleteContact/8
+
