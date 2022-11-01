@@ -12,7 +12,7 @@ Para instalar o projeto siga estas etapas:
 
 No terminal, execute o comando
 
-``` git clone https://github.com/Douggx/Teste-Tecnico-Shopper```
+``` git clone https://github.com/Douggx/Teste-Tree-Ranor```
 
 **Back End**
 
