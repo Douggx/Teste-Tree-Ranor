@@ -19,15 +19,15 @@ No terminal, execute o comando
 ``Crie um arquivo .env na pasta back
 e povoe com PASSWORD = (sua senha no banco de dados)``
 
-``Na pasta Back insira os comandos;
+``Na pasta Back, no terminal, insira os comandos;
 npm install
 npm run migrations``
 
-``Testes unitarios podem ser realizados utilizand o comando npm test``
+``Testes unitarios podem ser realizados utilizando o comando npm test no terminal``
 
 **Front End**
 
-`` Na Pasta Front insira os comandos;
+`` Na Pasta Front, no terminal, insira os comandos;
 npm install
 npm run start``
 
