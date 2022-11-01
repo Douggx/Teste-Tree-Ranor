@@ -19,6 +19,8 @@ e povoe com PASSWORD = (sua senha no banco de dados)``
 npm install
 npm run migrations``
 
+``Testes unitarios podem ser realizados utilizand o comando npm test``
+
 **Front End**
 
 `` Na Pasta Front insira os comandos;
