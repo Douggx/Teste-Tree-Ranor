@@ -2,6 +2,10 @@
 
 > Projeto Full Stack utilizando React, Node, Express e PostgresSQL
 
+### :page_facing_up: Documentação
+
+[Postman - Documentação API](https://documenter.getpostman.com/view/21558709/2s8YRmGrcD)
+
 ### 🚀 Instalando o projeto localmente
 
 Para instalar o projeto siga estas etapas:
