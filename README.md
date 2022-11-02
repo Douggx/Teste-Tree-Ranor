@@ -21,7 +21,8 @@ e povoe com PASSWORD = (sua senha no banco de dados)``
 
 ``Na pasta Back, no terminal, insira os comandos;
 npm install
-npm run migrations``
+npm run migrations
+para rodar o servidor rode o comando npm run dev ``
 
 ``Testes unitarios podem ser realizados utilizando o comando npm test no terminal``
 
